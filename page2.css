@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+h1{
+    margin-left: 10px;
+    color: white;
+    font-size: 30px;
+}
+h2{
+   margin-top: 5px;
+   margin-bottom: 5px; 
+   color: white; 
+   font-size: 30px;
+}
+h3{
+   color: white;
+   font-size: 30px;
+}    
+p{
+   margin-bottom:-20px;
+   margin-top:-10px;
+}
+img{
+    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
