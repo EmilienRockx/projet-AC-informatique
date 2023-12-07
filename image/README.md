@@ -1,9 +1,1 @@
-![environement1](https://github.com/EmilienRockx/projet-AC-informatique/assets/152375111/e6f3ef4f-005f-4189-be67-a726bc238fbb)
-![rendu-final](https://github.com/EmilienRockx/projet-AC-informatique/assets/152375111/e2fd3128-07ba-4024-bbad-3fe1be170f79)
-![portrait3](https://github.com/EmilienRockx/projet-AC-informatique/assets/152375111/681c566e-34b6-46bb-96c2-402228a01fb7)
-![portrait2](https://github.com/EmilienRockx/projet-AC-informatique/assets/152375111/f7f6c1f8-aa90-48da-ba70-b3d4a2dca9a7)
-![portrait1](https://github.com/EmilienRockx/projet-AC-informatique/assets/152375111/0aadfb73-42cc-4d02-a28f-6b29792b808b)
-![ori3](https://github.com/EmilienRockx/projet-AC-informatique/assets/152375111/d4a61b9c-a5b5-41c7-8042-6edf26797723)
-![ori2](https://github.com/EmilienRockx/projet-AC-informatique/assets/152375111/6c35157f-3723-41be-9606-c8724659fedd)
-![ori1](https://github.com/EmilienRockx/projet-AC-informatique/assets/152375111/853d19b3-28fd-431a-89c3-8593fc20ff3b)
-![environement2](https://github.com/EmilienRockx/projet-AC-informatique/assets/152375111/aeef8c16-8ad3-4a45-b164-c8ea6e94f910)
+
